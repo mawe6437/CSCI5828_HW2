@@ -17,3 +17,6 @@
 12. git checkout  02b0319be7161826fda09db0d138e08f32b2db69 | git checkout -b bug-fix <br>
 13. git commit "Commit 3"<br>
 14. git commit "Commit 4"<br>
+15. git commit "Commit 5" <br>
+16. git checkout master
+17. git merge bug-fix
