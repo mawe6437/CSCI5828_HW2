@@ -14,3 +14,9 @@
 9. git commit -m "Commit 2"<br>
 10. git remote add origin https://github.com/mawe6437/CSCI5828_HW2.git <br>
 11. git push -u origin master <br>
+12. git checkout  02b0319be7161826fda09db0d138e08f32b2db69 | git checkout -b bug-fix <br>
+13. git commit "Commit 3"<br>
+14. git commit "Commit 4"<br>
+15. git commit "Commit 5" <br>
+16. git checkout master
+17. git merge bug-fix
