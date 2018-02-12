@@ -3,8 +3,8 @@
 ## Matt Weber
 ## Michael Matonte
 
-1. git init <br>
-2. git add README.md <br>
+1. git init<br>
+2. git add README.md<br>
 3. git commit -m "Commit 0" <br>
 4. [EDIT README.md]<br>
 5. git add README.md<br>
