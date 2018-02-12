@@ -18,5 +18,9 @@
 13. git commit "Commit 3"<br>
 14. git commit "Commit 4"<br>
 15. git commit "Commit 5" <br>
-16. git checkout master
-17. git merge bug-fix
+16. git checkout master<br>
+17. git merge bug-fix<br>
+18. git checkout master<br>
+19. [EDIT README.md]<br>
+20. git add README.md<br>
+21. git commit -m "Commit 10"<br>
