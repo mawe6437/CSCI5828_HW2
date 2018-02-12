@@ -23,7 +23,10 @@
 26. git add README.md<br>
 27. git commit -m "Commit 7"<br>
 28. [EDIT README.md]<br>
-29. git add README.me
-30. git commit -m "Commit 8"
+29. git add README.me<br>
+30. git commit -m "Commit 8"<br>
+31. [EDIT README.md]<br>
+32. git add README.md<br>
+33. git commit -m "Commit 9"<br>
 
 
