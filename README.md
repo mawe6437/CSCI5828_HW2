@@ -17,6 +17,13 @@
 12. git checkout  02b0319be7161826fda09db0d138e08f32b2db69 | git checkout -b bug-fix <br>
 13. git commit "Commit 3"<br>
 14. git commit "Commit 4"<br>
-23. git checkout 9b36a4ba83e4faadbdf7fac25c97a183e8d10d3b
-24. git checkout -b bug-fix-experimental
+23. git checkout 9b36a4ba83e4faadbdf7fac25c97a183e8d10d3b<br>
+24. git checkout -b bug-fix-experimental<br>
+25. [EDIT README.md]<br>
+26. git add README.md<br>
+27. git commit -m "Commit 7"<br>
+28. [EDIT README.md]<br>
+29. git add README.me
+30. git commit -m "Commit 8"
+
 
