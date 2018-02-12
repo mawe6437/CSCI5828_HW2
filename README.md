@@ -5,7 +5,7 @@
 
 1. git init<br>
 2. git add README.md<br>
-3. git commit -m "Commit 0" <br>
+3. git commit -m "Commit 0"<br>
 4. [EDIT README.md]<br>
 5. git add README.md<br>
 6. git commit -m "Commit 1"<br>
