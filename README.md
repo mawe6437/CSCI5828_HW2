@@ -20,7 +20,29 @@
 15. git commit "Commit 5" <br>
 16. git checkout master<br>
 17. git merge bug-fix<br>
-18. git checkout master<br>
+18. git checkout bug-fix<br>
 19. [EDIT README.md]<br>
 20. git add README.md<br>
-21. git commit -m "Commit 10"<br>
+21. git commit -m "Commit 6"<br>
+22. git checkout 9b36a4ba83e4faadbdf7fac25c97a183e8d10d3b<br>
+23. git checkout -b bug-fix-experimental<br>
+24. [EDIT README.md]<br>
+25. git add README.md<br>
+26. git commit -m "Commit 7"<br>
+27. [EDIT README.md]<br>
+28. git add README.me<br>
+29. git commit -m "Commit 8"<br>
+30. [EDIT README.md]<br>
+31. git add README.md<br>
+32. git commit -m "Commit 9"<br>
+33. [EDIT README.md]<br>
+34. git add README.md<br>
+35. git checkout master<br>
+36. [EDIT README.md]<br>
+37. git add README.md<br>
+38. git commit -m "Commit 10"<br>
+39. git commit -m "Commit 11"<br>
+40. [EDIT README.md]<br>
+41. git add README.md<br>
+42. git commit -m "Commit 12"<br>
+
