@@ -45,4 +45,5 @@
 40. [EDIT README.md]<br>
 41. git add README.md<br>
 42. git commit -m "Commit 12"<br>
-
+43. git merge bugfix<br>
+44. get commit -m "Commit 13"<br>
