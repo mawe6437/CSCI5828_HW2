@@ -46,4 +46,6 @@
 41. git add README.md<br>
 42. git commit -m "Commit 12"<br>
 43. git merge bugfix<br>
-44. get commit -m "Commit 13"<br>
+44. git commit -m "Commit 13"<br>
+45. vi graph.md<br>
+46. git commit -m "Commit 14"<br>
